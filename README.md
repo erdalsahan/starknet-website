@@ -2,7 +2,7 @@
 
 This is the official repository for [starknet.io](https://starknet.io). The website is built using a modern tech stack, and we encourage community contributions to the codebase, content and translations.
 
-## Features
+## Features 
 
 The StarkNet website includes the following features:
 
